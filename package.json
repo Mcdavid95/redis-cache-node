@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.13",
+    "redis": "^3.1.2"
+  },
+  "name": "redis-cache-node",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mcdavid95/redis-cache-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mcdavid95/redis-cache-node/issues"
+  },
+  "homepage": "https://github.com/Mcdavid95/redis-cache-node#readme"
+}
